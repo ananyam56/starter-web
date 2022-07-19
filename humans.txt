@@ -3,6 +3,8 @@
 
 # TEAM
 
+    Ananya Maddali
+
     <name> -- <role> -- <twitter>
 
 # THANKS
