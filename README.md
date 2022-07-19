@@ -8,4 +8,4 @@ Please fork this repository
 
 Sample website with plenty of files for demos
 ### Copyright
-Git Training.
+Git Training. All rights reserved
